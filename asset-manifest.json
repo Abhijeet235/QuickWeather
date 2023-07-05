@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QuickWeather/static/css/main.5d5d37f1.css",
+    "main.js": "/QuickWeather/static/js/main.72b3312c.js",
+    "static/media/cold-bg.jpg": "/QuickWeather/static/media/cold-bg.6a5129260919cc180736.jpg",
+    "static/media/warm-bg.jpg": "/QuickWeather/static/media/warm-bg.33117346bc4a529201b1.jpg",
+    "index.html": "/QuickWeather/index.html",
+    "main.5d5d37f1.css.map": "/QuickWeather/static/css/main.5d5d37f1.css.map",
+    "main.72b3312c.js.map": "/QuickWeather/static/js/main.72b3312c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d5d37f1.css",
+    "static/js/main.72b3312c.js"
+  ]
+}
